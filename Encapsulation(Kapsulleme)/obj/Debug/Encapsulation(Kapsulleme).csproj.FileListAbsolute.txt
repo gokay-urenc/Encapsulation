@@ -1,0 +1,20 @@
+C:\Users\hamitgokay.urenc\Desktop\Notlar ve Uygulamalar\Form Uygulamaları\Encapsulation(Kapsulleme)\Encapsulation(Kapsulleme)\bin\Debug\Encapsulation(Kapsulleme).exe.config
+C:\Users\hamitgokay.urenc\Desktop\Notlar ve Uygulamalar\Form Uygulamaları\Encapsulation(Kapsulleme)\Encapsulation(Kapsulleme)\bin\Debug\Encapsulation(Kapsulleme).exe
+C:\Users\hamitgokay.urenc\Desktop\Notlar ve Uygulamalar\Form Uygulamaları\Encapsulation(Kapsulleme)\Encapsulation(Kapsulleme)\bin\Debug\Encapsulation(Kapsulleme).pdb
+C:\Users\hamitgokay.urenc\Desktop\Notlar ve Uygulamalar\Form Uygulamaları\Encapsulation(Kapsulleme)\Encapsulation(Kapsulleme)\obj\Debug\Encapsulation(Kapsulleme).csprojResolveAssemblyReference.cache
+C:\Users\hamitgokay.urenc\Desktop\Notlar ve Uygulamalar\Form Uygulamaları\Encapsulation(Kapsulleme)\Encapsulation(Kapsulleme)\obj\Debug\Encapsulation_Kapsulleme_.Form1.resources
+C:\Users\hamitgokay.urenc\Desktop\Notlar ve Uygulamalar\Form Uygulamaları\Encapsulation(Kapsulleme)\Encapsulation(Kapsulleme)\obj\Debug\Encapsulation_Kapsulleme_.Properties.Resources.resources
+C:\Users\hamitgokay.urenc\Desktop\Notlar ve Uygulamalar\Form Uygulamaları\Encapsulation(Kapsulleme)\Encapsulation(Kapsulleme)\obj\Debug\Encapsulation(Kapsulleme).csproj.GenerateResource.cache
+C:\Users\hamitgokay.urenc\Desktop\Notlar ve Uygulamalar\Form Uygulamaları\Encapsulation(Kapsulleme)\Encapsulation(Kapsulleme)\obj\Debug\Encapsulation(Kapsulleme).csproj.CoreCompileInputs.cache
+C:\Users\hamitgokay.urenc\Desktop\Notlar ve Uygulamalar\Form Uygulamaları\Encapsulation(Kapsulleme)\Encapsulation(Kapsulleme)\obj\Debug\Encapsulation(Kapsulleme).exe
+C:\Users\hamitgokay.urenc\Desktop\Notlar ve Uygulamalar\Form Uygulamaları\Encapsulation(Kapsulleme)\Encapsulation(Kapsulleme)\obj\Debug\Encapsulation(Kapsulleme).pdb
+C:\Users\casper\Desktop\Files\Applications\Form Applications\Encapsulation(Kapsulleme)\Encapsulation(Kapsulleme)\bin\Debug\Encapsulation(Kapsulleme).exe.config
+C:\Users\casper\Desktop\Files\Applications\Form Applications\Encapsulation(Kapsulleme)\Encapsulation(Kapsulleme)\bin\Debug\Encapsulation(Kapsulleme).exe
+C:\Users\casper\Desktop\Files\Applications\Form Applications\Encapsulation(Kapsulleme)\Encapsulation(Kapsulleme)\bin\Debug\Encapsulation(Kapsulleme).pdb
+C:\Users\casper\Desktop\Files\Applications\Form Applications\Encapsulation(Kapsulleme)\Encapsulation(Kapsulleme)\obj\Debug\Encapsulation(Kapsulleme).csprojAssemblyReference.cache
+C:\Users\casper\Desktop\Files\Applications\Form Applications\Encapsulation(Kapsulleme)\Encapsulation(Kapsulleme)\obj\Debug\Encapsulation_Kapsulleme_.Form1.resources
+C:\Users\casper\Desktop\Files\Applications\Form Applications\Encapsulation(Kapsulleme)\Encapsulation(Kapsulleme)\obj\Debug\Encapsulation_Kapsulleme_.Properties.Resources.resources
+C:\Users\casper\Desktop\Files\Applications\Form Applications\Encapsulation(Kapsulleme)\Encapsulation(Kapsulleme)\obj\Debug\Encapsulation(Kapsulleme).csproj.GenerateResource.cache
+C:\Users\casper\Desktop\Files\Applications\Form Applications\Encapsulation(Kapsulleme)\Encapsulation(Kapsulleme)\obj\Debug\Encapsulation(Kapsulleme).csproj.CoreCompileInputs.cache
+C:\Users\casper\Desktop\Files\Applications\Form Applications\Encapsulation(Kapsulleme)\Encapsulation(Kapsulleme)\obj\Debug\Encapsulation(Kapsulleme).exe
+C:\Users\casper\Desktop\Files\Applications\Form Applications\Encapsulation(Kapsulleme)\Encapsulation(Kapsulleme)\obj\Debug\Encapsulation(Kapsulleme).pdb
